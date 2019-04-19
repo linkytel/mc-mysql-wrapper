@@ -1,0 +1,12 @@
+{
+  "name": "mc-mysql-wrapper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "mc.leon",
+  "license": "ISC",
+  "repository": "https://github.com/linkytel/mc-mysql-wrapper.git",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
