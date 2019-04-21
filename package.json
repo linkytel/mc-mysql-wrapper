@@ -1,6 +1,6 @@
 {
   "name": "mc-mysql-wrapper",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "lib/index.js",
   "author": "mc.leon",
